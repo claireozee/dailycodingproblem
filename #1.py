@@ -15,8 +15,6 @@ def sum_to_k(k, thislist):
 result = sum_to_k(10, [9, 1, 0, 10, 7, 30])
 print(result)
     
-
-
 #problems
 #loop didn't stop when true - had to use two arguments and call function at the end, don't need to declare the variables at the start i.e. k = ... and thislist = ...
 
